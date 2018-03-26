@@ -1,13 +1,11 @@
 # MoBank
 
-
 MoBank es una plataforma bancaria para jóvenes que busca recordar los pagos pendientes que tienen con sus amigos, así no volverán a olvidar transferir y pasar malos rato. Como valor agregado,  simplifica el proceso eliminando la tarjeta de claves. 
 
 ![Logo](https://github.com/yolangelica/banco-joven-ux/raw/master/img/uno.png)
 
 ### Desarrollado para: 
-
--Laboratoria
+[Laboratoria](http://www.laboratoria.la/)
 
 ## Proceso de Desarrollo Ux
 
