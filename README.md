@@ -4,15 +4,15 @@
 MoBank es una plataforma bancaria para jóvenes que busca recordar los pagos pendientes que tienen con sus amigos, así no volverán a olvidar transferir y pasar malos rato. Como valor agregado,  simplifica el proceso eliminando la tarjeta de claves. 
 ![](src/img/uno.png)
 
-## Desarrollado para: 
+### Desarrollado para: 
 
 -Laboratoria
 
-# Proceso de Desarrollo Ux
+## Proceso de Desarrollo Ux
 
 ![](src/img/dos.png)
 
-## RESEARCH
+# RESEARCH
 La Investigación consiste en:
 
 -Entrevistas
@@ -72,7 +72,8 @@ comentan:
 “No lo haría desde mi teléfono en el metro, me ven con la tarjeta y saben lo que estoy haciendo, me da miedo que me roben, o escribir mal el número en esos espacios tan pequeños.”
 Se les pidió que realizaran el pago hasta el ingreso de la clave de transferencia, y es ahí cuando  paran y buscan rápido su tarjeta, tardan un momento mientras la grabación continua.
 
-## SÍNTESIS Y DEFINICIÓN
+
+# SÍNTESIS Y DEFINICIÓN
 
 
 
@@ -89,7 +90,7 @@ Puntos de dolor:
 - números demasiado pequeños, sitio no es responsive.
 
 
-##  PROTOTIPO Y TEST
+# PROTOTIPO Y TEST
 
 Test Sketch
 - Herramientas: lapiz, papel
