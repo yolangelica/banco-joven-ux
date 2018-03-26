@@ -2,6 +2,8 @@
 
 
 MoBank es una plataforma bancaria para jóvenes que busca recordar los pagos pendientes que tienen con sus amigos, así no volverán a olvidar transferir y pasar malos rato. Como valor agregado,  simplifica el proceso eliminando la tarjeta de claves. 
+
+
 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/uno.png)
 
 ### Desarrollado para: 
@@ -10,7 +12,7 @@ MoBank es una plataforma bancaria para jóvenes que busca recordar los pagos pen
 
 ## Proceso de Desarrollo Ux
 
-![](src/img/dos.png)
+![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/dos.png)
 
 # RESEARCH
 La Investigación consiste en:
@@ -51,7 +53,7 @@ Nos dimos cuenta que al abrir la versión  móvil de algunos bancos:
 - La versión web, se ve muy pequeño para ingresar datos o números, desde el móvil.
 
 
-![](src/img/tres.png)
+![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/tres.png)
 
 ### Test Usabilidad de otros bancos.
 Herramienta utilizada:Loom recorder (graba a usuario y pantalla)
@@ -78,9 +80,9 @@ Se les pidió que realizaran el pago hasta el ingreso de la clave de transferenc
 
 
 ### User persona
-1 ![](src/img/cinco.png)
-2 ![](src/img/userr.png)
-3 ![](src/img/userp.png)
+1 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/cinco.png)
+2 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/userr)
+3 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/userp)
 
 
 ### Customer Journey
@@ -102,15 +104,15 @@ Para el test, se realizaron sketch en papel, luego se utilizó la herramienta po
 2° pagar  una de las deudas que aparece pendiente.
 Para esto se testean 6 personas.
 
-![](src/img/siete.png)
-![](src/img/ocho.png)
+![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/siete.png)
+![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/ocho.png)
 
 CORREGIR Y PROTOTIPAR EN MARVELAPP
 
 
 Luego de testear en papel, elegimos la paleta de color utilizando como inspiración distintas app
 
-![](src/img/nueve.png)
+![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/nueve.png)
 
 * Javiera mardones realiza ilustraciones.
 
