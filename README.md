@@ -11,7 +11,7 @@ MoBank es una plataforma bancaria para jóvenes que busca recordar los pagos pen
 
 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/dos.png)
 
-# RESEARCH
+## RESEARCH
 La Investigación consiste en:
 
 -Entrevistas
@@ -75,7 +75,7 @@ comentan:
 Se les pidió que realizaran el pago hasta el ingreso de la clave de transferencia, y es ahí cuando  paran y buscan rápido su tarjeta, tardan un momento mientras la grabación continua.
 
 
-# SÍNTESIS Y DEFINICIÓN
+## SÍNTESIS Y DEFINICIÓN
 
 
 
@@ -93,7 +93,7 @@ Puntos de dolor:
 
 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/seis.png)
 
-# PROTOTIPO Y TEST
+## PROTOTIPO Y TEST
 
 Test Sketch
 - Herramientas: lapiz, papel
