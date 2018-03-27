@@ -82,7 +82,7 @@ Se les pidió que realizaran el pago hasta el ingreso de la clave de transferenc
 ### User persona
 1 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/cinco.png)
 2 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/userr.jpg)
-3 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/userp.jpg)
+
 
 
 ### Customer Journey
