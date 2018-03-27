@@ -24,9 +24,9 @@ La Investigación consiste en:
 
 Para este proceso buscamos un lugar cómodo para abordar a los usuarios y seguro, además ofrecimos un pequeño presente por el tiempo invertido en nuestra investigación.
 
-1° Lugar: Cerro Santa Lucía.
-2° Lugar: Puntos de Internet en estación de metro.
-Entrevistamos personas  entre 18 y 26 años, la mayoría estudiantes.
+- 1° Lugar: Cerro Santa Lucía.
+- 2° Lugar: Puntos de Internet en estación de metro.
+- Entrevistamos personas  entre 18 y 26 años, la mayoría estudiantes.
 
 - Preguntas Entrevistas
 
@@ -45,14 +45,15 @@ Banco Estado (móvil), BBVA(app), Santander(web), MACH(app), se utilizaron para 
 Nos dimos cuenta que al abrir la versión  móvil de algunos bancos:
 - No permite transferir, enviando un mensaje de alerta.
 - Página envia error, no se visualiza la versión móvil.
-- Solicitan una tarjeta de claves, donde se ingresan dígitos y números.
+- Solicitan una tarjeta de claves.
 - Algunos piden un número de dispositivo, que cambia la clave cada cierto tiempo.
-- La versión web, se ve muy pequeño para ingresar datos o números, desde el móvil.
+- La versión web, se ve muy pequeño para ingresar datos o números desde el móvil.
 
 
 ![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/tres.png)
 
 ### Test Usabilidad de otros bancos.
+
 Herramienta utilizada:Loom recorder (graba a usuario y pantalla)
 
 Como no es una tarea que realizaría cualquier persona, más aun siendo nosotras desconocidas, testeamos a cercanos para que no sintieran desconfianza al abrir sus cuentas personales.
@@ -64,8 +65,10 @@ Testeamos a algunos usuarios para ver su relación con la banca, les solicitamos
 -Transferir a cuenta frecuente.
 -Transferir a cuenta nueva.
 
+![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/user1.png)
+![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/user2.png)
 
-Resultados:
+**Resultados:**
 Es una tarea que es fácil de encontrar, aparece en la primera pantalla la etiqueta de transferencia, sienten que los datos solicitados son claros, pero todos lo realizan desde sus notebooks, los números son más claros, temen equivocarse al ingresar la cuenta  y transferir a otras personas desde su celular.
 comentan:
 “No lo haría desde mi teléfono en el metro, me ven con la tarjeta y saben lo que estoy haciendo, me da miedo que me roben, o escribir mal el número en esos espacios tan pequeños.”
@@ -88,6 +91,7 @@ Puntos de dolor:
 -sacar tarjeta en vía pública
 - números demasiado pequeños, sitio no es responsive.
 
+![](https://github.com/yolangelica/banco-joven-ux/raw/master/img/seis.png)
 
 # PROTOTIPO Y TEST
 
